@@ -23,7 +23,7 @@ public class MapUtil {
     }
 
     public static String parseFile() {
-
+        clearAll();
         File file = new File("/word-list.txt");
         try {
             BufferedReader fr = new BufferedReader(new FileReader(file));
@@ -31,14 +31,14 @@ public class MapUtil {
             while((line = fr.readLine()) != null) {
                 String[] splice = line.split(" ");
                 if (splice.length == 2) {
-
+                    mapOne.set(splice[0], splice[1]);
+                    mapTwo.set(splice[0], splice[1]);
+                    mapThree.set(splice[0], splice[1]);
                 }
             }
         } catch (Exception e) {
             e.printStackTrace();
         }
-
-
         return null;
     }
 }

@@ -17,7 +17,8 @@ public class DashaMapTwo implements HashMapX {
 
     @Override
     public void set(String key, String value) {
-
+        int intVal = Integer.parseInt(value);
+        Node newNode = new Node(key, intVal);
     }
 
     @Override

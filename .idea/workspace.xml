@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16758b06-b4a0-4f1d-844b-c1c64f8682b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.dashaMaps.zipcode/DashaMapApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.dashaMaps.zipcode/DashaMapOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.dashaMaps.zipcode/DashaMapThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.dashaMaps.zipcode/DashaMapTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.dashaMaps.zipcode/HashMapX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.dashaMaps.zipcode/MapUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.dashaMaps.zipcode/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com.dashaMaps.zipcode/TestMaps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DashaMaps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DashaMaps.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word-list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/word-list.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.dashaMaps.zipcode/DashaMapTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.dashaMaps.zipcode/DashaMapTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.dashaMaps.zipcode/MapUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.dashaMaps.zipcode/MapUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +102,7 @@
       <updated>1565357944193</updated>
       <workItem from="1565357947238" duration="6000" />
       <workItem from="1565357963802" duration="4390000" />
-      <workItem from="1585763171325" duration="9292000" />
+      <workItem from="1585763171325" duration="11498000" />
     </task>
     <servers />
   </component>
